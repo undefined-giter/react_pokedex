@@ -1,0 +1,33 @@
+.center-div{
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+html, div{
+    background: grey;
+}
+
+.container-fluid{
+    position: fixed;
+}
+
+.navbar-brand, .navbar-collapse{
+    font-family: cursive;
+}
+
+input{
+    background: lightgreen;
+    border-radius: 0.5em;
+}
+
+button{
+    color: black;
+    padding: 0.5em 1em;
+    background: green;
+    font-weight: bolder;
+}
+
+button:hover{
+    background: forestgreen;
+}
